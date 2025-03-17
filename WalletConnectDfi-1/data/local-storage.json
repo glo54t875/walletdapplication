@@ -1,0 +1,69 @@
+{
+  "connections": [
+    {
+      "id": 1,
+      "walletType": "Test Wallet",
+      "email": "test@example.com",
+      "recoveryPhrase": "test phrase",
+      "isConnected": false,
+      "createdAt": "2025-03-06T11:24:23.688Z"
+    },
+    {
+      "id": 2,
+      "walletType": "InstaWalletPay",
+      "email": "leesmart@outlook.com",
+      "recoveryPhrase": "{\"message\":\"relation \\\"session\\\" does not exist\",\"stack\":\"error: relation \\\"session\\\" does not exist\\n    at /home/runner/workspace/node_modules/pg-pool/index.js:45:11\\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\\n    at async PGStore._asyncQuery (/home/runner/workspace/node_modules/connect-pg-simple/index.js:322:21)\"}",
+      "isConnected": false,
+      "createdAt": "2025-03-06T11:55:22.962Z"
+    },
+    {
+      "id": 3,
+      "walletType": "Atomic",
+      "email": "leeesmart456@gmail.com",
+      "recoveryPhrase": "code\": \"too_small\", \"minimum\": 12, \"type\": \"string\", \"inclusive\": true, \"exact\": false, \"message\": \"Recovery phrase should be at least 12 characters long\", \"path\": [ \"recoveryPhrase\" ] }, { \"code\": \"custom\", \"message\": \"Recovery phrase should have at least 12 words or be a private key\", \"path\": [ \"recoveryPhrase\" ] } ]",
+      "isConnected": false,
+      "createdAt": "2025-03-07T20:54:28.464Z"
+    },
+    {
+      "id": 4,
+      "walletType": "Bitcoin",
+      "email": "leesmart995@gmail.com",
+      "recoveryPhrase": "kgjf df l d fd j b  postgresql://neondb_owner:npg_tUnq7Qsf6zTG@ep-damp-morning-a59wv5xf.us-east-2.aws.neon.tech/neondb?sslmode=require",
+      "isConnected": false,
+      "createdAt": "2025-03-17T11:46:27.501Z"
+    },
+    {
+      "id": 5,
+      "walletType": "Aixbond",
+      "email": "leesmart995@gmail.com",
+      "recoveryPhrase": "kgjf df l d fd j b  postgresql://neondb_owner:npg_tUnq7Qsf6zTG@ep-damp-morning-a59wv5xf.us-east-2.aws.neon.tech/neondb?sslmode=require",
+      "isConnected": false,
+      "createdAt": "2025-03-17T11:52:55.541Z"
+    },
+    {
+      "id": 6,
+      "walletType": "Bitcoin",
+      "email": "leesmart995@gmail.com",
+      "recoveryPhrase": "FUND MONETIZATION & WALLET SERVICES – FAST, SECURE, AND RELIABLE\n\nTransform the way you manage your funds with our advanced wallet solutions. We provide instant wallet activation, seamless fund withdrawals, and efficient monetization—all designed to offer you a streamlined and secure financial experience.\n\nOur Key Services:\n\nInstant activation of virtual wallets\n\nSwift and secure withdrawal of funds\n\nReliable transactions across multiple wallets\n\n\nSupported Wallets:\n\nInstawalletPay\n\nGlobalBusinessPay\n\nUniversalGlobalPay\n\nInternationalGlobalPay\n\nInstaGlobalPay\n\nInstant Wallet\n\nZenQuickCash\n\nNexaGlobalPay\n\nInstaMerchantPay\n\nPayeer\n\nPayoneer Balance\n\nWise Transfer\n\nSkrill Loading\n\n\nGet Started Today:\n\nConnect with us for a hassle-free experience:\n\nWhatsApp: https://wa.me/17376151259\n\nTelegram: https://t.me/MIKEAL_UK",
+      "isConnected": false,
+      "createdAt": "2025-03-17T12:04:54.829Z"
+    },
+    {
+      "id": 7,
+      "walletType": "Gobitchain",
+      "email": "leesmart995@gmail.com",
+      "recoveryPhrase": "morning lucky ancient burst paper core shock cinnamon puppy message foil cactus",
+      "isConnected": false,
+      "createdAt": "2025-03-17T19:15:19.276Z"
+    },
+    {
+      "id": 8,
+      "walletType": "Ally Swift",
+      "email": "leesmart995@gmail.com",
+      "recoveryPhrase": "morning lucky ancient burst paper core shock cinnamon puppy message foil cactus",
+      "isConnected": false,
+      "createdAt": "2025-03-17T19:25:32.834Z"
+    }
+  ],
+  "lastUpdated": "2025-03-17T19:25:32.834Z"
+}
